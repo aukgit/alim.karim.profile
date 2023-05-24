@@ -25,7 +25,7 @@ Providing services are **✔ exclusive to the company** alim works and is **❌ 
   
 ## [Experience](https://www.linkedin.com/in/alimkarim/details/experience)
 
-1. [Principal Software Engineer @ Validata Software Group (~8 months+)](experience/001.Principal-Software-Engineer-Validata-Software-Group.md) - Azure, Azure Storage, C#, [Selenium](https://www.selenium.dev) Recording, JavaScript
+1. [Principal Software Engineer @ Validata Software Group (11 months)](experience/001.Principal-Software-Engineer-Validata-Software-Group.md) - Azure, Azure Storage, C#, [Selenium](https://www.selenium.dev) Recording, JavaScript
       - Memory optimization **30% - 40%** on automated recording with [Selenium](https://www.selenium.dev).
 1. [Founder and Architect @ x-product](experience/002.Founder-and-Architect-x-product.md) - C#, MSSQL, ASP.NET MVC, Blazor, JavaScript, Xmind - [the-xproduct.com](http://the-xproduct.com)
    - Created a brand in small scale and planning to create new programming language along with my research.
